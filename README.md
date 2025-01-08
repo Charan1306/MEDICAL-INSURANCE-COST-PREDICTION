@@ -1,2 +1,3 @@
 # MEDICAL-INSURANCE-COST-PREDICTION
 MEDICAL INSURANCE COST PREDICTION USING RANDOM FOREST REGRESSION
+Medical Insurance Cost Prediction involves estimating the cost of an individual’s medical insurance based on various factors like age, Height, Weight, BP and Others. Accurate predictions help insurance companies set fair premiums, ensuring that people pay a reasonable amount based on their risk factors. This focuses to predict medical insurance costs based on a comprehensive dataset. The increasing costs of healthcare, predicting medical insurance expenses accurately has become increasingly crucial in managing financial risks and planning for healthcare needs.
